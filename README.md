@@ -1,0 +1,2 @@
+# myrepository
+private repository
