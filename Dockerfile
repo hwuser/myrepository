@@ -95,6 +95,6 @@ RUN set -e \
 		echo >&2 "$nativeLines"; \
 		exit 1; \
 	fi
-
+echo "hello!"
 EXPOSE 8080
 CMD ["catalina.sh", "run"]
